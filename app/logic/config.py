@@ -1,4 +1,4 @@
-CLASSIFICADOR = './app/logic/data/MLP1Camada_best_models.pickle'
+CLASSIFICADOR = './app/logic/data/MLP3Camadas_best_models.pickle'
 
 LABELENCONDER_INTEREST = './app/logic/data/labelencoder_interest.pkl'
 # LABELENCONDER_INTEREST = 'D:/debor/lead/programs/my_lead_mentoring/first_project/app\logic\\data\\labelenconder_interest.pkl'

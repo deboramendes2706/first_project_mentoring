@@ -17,6 +17,23 @@ def predict(item: InputPredict):
 
     **Exemplo**
 
+    {
+  "type_school": "Academic",
+
+  "school_accreditation": "B",
+
+  "gender": "Female",
+
+  "interest": "Very Interested",
+
+  "residence": "Rural",
+
+  "parent_salary": 3880000,
+
+  "average_grades": 85.43,
+  
+  "parent_was_in_college": true
+    }
 
     """
 
