@@ -35,6 +35,24 @@ def predict(item: InputPredict):
   "parent_was_in_college": true
     }
 
+      {
+  "type_school": "Vocational",
+
+  "school_accreditation": "A",
+
+  "gender": "Male",
+
+  "interest": "Not Interested",
+
+  "residence": "Rural",
+
+  "parent_salary": 5680000,
+
+  "average_grades": 67.1,
+  
+  "parent_was_in_college": true
+    }
+
     """
 
     will_go_to_college, will_go_to_college_text = perform_prediction(item)
